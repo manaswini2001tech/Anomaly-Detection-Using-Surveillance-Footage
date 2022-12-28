@@ -15,3 +15,6 @@ for implementation.
 
 .npy files are numpy binary files the array is saved in binary format, i've attached a ipynb file to view the npy files or C3D features obtained.
 
+###
+1. As for Results, testing on videos will give the output folder gif files showing the detected anomaly. The x axis is duration of video and y axis is anomaly score.
+2. Inside the Anomaly detection ipynb file there is also loss vs epochs graph done for 4000 iterations.
